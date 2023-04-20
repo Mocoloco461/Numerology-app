@@ -1,0 +1,3 @@
+([('main',
+   '/Users/moshe/Documents/Progrmas/Python/geometryApp/dist/main',
+   'EXECUTABLE')],)
